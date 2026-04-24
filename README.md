@@ -34,7 +34,9 @@ It scans the environment, measures distances, and displays real-time data on an 
 
 ## 📷 Project Preview
 
+![Front View](radar frontview.jpeg)
 
+![Back View](radar backview.jpeg)
 ---
 
 ## 👩‍💻 Author
