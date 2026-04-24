@@ -31,12 +31,11 @@ It scans the environment, measures distances, and displays real-time data on an 
 3. Data is displayed in real-time
 
 ---
-
 ## 📷 Project Preview
 
-![Front View](radar frontview.jpeg)
+![Front View](radar%20frontview.jpeg)
 
-![Back View](radar backview.jpeg)
+![Back View](radar%20backview.jpeg)
 ---
 
 ## 👩‍💻 Author
